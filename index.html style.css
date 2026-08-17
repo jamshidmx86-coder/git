@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Junior</title>
+</head>
+<style>
+  h1 {
+    color: rgb(238, 123, 47)
+  }
+
+  p {
+    color: hsl(180, 88%, 62%)
+  }
+
+  button {
+    color: #f5efef;
+    background-color: #04bf42
+  }
+</style>
+
+<body>
+  <h1>Mening birinchi rangli sahifam</h1>
+  <p>Bu paragraf HSL rangida yozilgan</p>
+  <label for="ism">Ismingizni kiriting:</label>
+  <input type="text" placeholder="Ism..." id="ism" name="ism" "required" /><br><br>
+  <button>Yuborish</button>
+
+</body>
+
+</html>
